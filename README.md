@@ -6,4 +6,5 @@
   * [第02章 明白な実装](https://github.com/sgyatto/tdd-java/pull/2)
   * [第03章 三角測量](https://github.com/sgyatto/tdd-java/pull/3)
   * [第04章 意図を語るテスト](https://github.com/sgyatto/tdd-java/pull/4)
+  * [第05章 原則をあえて破るとき](https://github.com/sgyatto/tdd-java/pull/5)
   
