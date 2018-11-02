@@ -5,4 +5,5 @@
   * [第01章 仮実装](https://github.com/sgyatto/tdd-java/pull/1)
   * [第02章 明白な実装](https://github.com/sgyatto/tdd-java/pull/2)
   * [第03章 三角測量](https://github.com/sgyatto/tdd-java/pull/3)
+  * [第04章 意図を語るテスト](https://github.com/sgyatto/tdd-java/pull/4)
   
