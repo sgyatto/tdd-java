@@ -9,4 +9,5 @@
   * [第05章 原則をあえて破るとき](https://github.com/sgyatto/tdd-java/pull/5)
   * [第06章 テスト不足に気づいたら](https://github.com/sgyatto/tdd-java/pull/6)
   * [第07章 疑念をテストに翻訳する](https://github.com/sgyatto/tdd-java/pull/7)
+  * [第08章 実装を隠す](https://github.com/sgyatto/tdd-java/pull/8)
   
