@@ -7,4 +7,5 @@
   * [第03章 三角測量](https://github.com/sgyatto/tdd-java/pull/3)
   * [第04章 意図を語るテスト](https://github.com/sgyatto/tdd-java/pull/4)
   * [第05章 原則をあえて破るとき](https://github.com/sgyatto/tdd-java/pull/5)
+  * [第06章 テスト不足に気づいたら](https://github.com/sgyatto/tdd-java/pull/6)
   
