@@ -12,4 +12,5 @@
   * [第08章 実装を隠す](https://github.com/sgyatto/tdd-java/pull/8)
   * [第09章 歩幅の調整](https://github.com/sgyatto/tdd-java/pull/9)
   * [第10章 テストに聞いてみる](https://github.com/sgyatto/tdd-java/pull/10)
+  * [第11章 不要になったら消す](https://github.com/sgyatto/tdd-java/pull/11)
   
