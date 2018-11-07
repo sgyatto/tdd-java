@@ -14,4 +14,5 @@
   * [第10章 テストに聞いてみる](https://github.com/sgyatto/tdd-java/pull/10)
   * [第11章 不要になったら消す](https://github.com/sgyatto/tdd-java/pull/11)
   * [第12章 設計とメタファー](https://github.com/sgyatto/tdd-java/pull/12)
+  * [第13章 実装を導くテスト](https://github.com/sgyatto/tdd-java/pull/13)
   
