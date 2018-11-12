@@ -1,4 +1,7 @@
-# 『テスト駆動開発』をJavaで写経
+# 『テスト駆動開発』第Ⅰ部をJavaでやる
+
+## 書籍リンク
+* [テスト駆動開発](http://shop.ohmsha.co.jp/shopdetail/000000004967/)
 
 ## 目次
 * 第Ⅰ部 多国籍通貨
@@ -16,4 +19,5 @@
   * [第12章 設計とメタファー](https://github.com/sgyatto/tdd-java/pull/12)
   * [第13章 実装を導くテスト](https://github.com/sgyatto/tdd-java/pull/13)
   * [第14章 学習用テストと回帰テスト](https://github.com/sgyatto/tdd-java/pull/14)
+  * [第15章 テスト任せとコンパイラ任せ](https://github.com/sgyatto/tdd-java/pull/15)
   
